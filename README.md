@@ -1,5 +1,6 @@
 ### Hi there 👋
-I want to see the world in colors again. 🎨
+I want to see the world in colors again 🎨
+> Optimized for light-mode. 🔆
 <!--![alt text](https://github.com/zgruza/zgruza/blob/main/Chips_eating_gif.gif?raw=true)
 
 **zgruza/zgruza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
