@@ -1,5 +1,9 @@
 ### Hi there 👋
+
 I want to see the world in colors again 🎨
+
+*Awake, not woke.*
+
 > Optimized for light-mode. 🔆
 <!--![alt text](https://github.com/zgruza/zgruza/blob/main/Chips_eating_gif.gif?raw=true)
 
