@@ -3,6 +3,7 @@
 I want to see the world in colors again 🎨
 
 *Awake, not woke.*
+Fuck corporate minimalism.
 
 > Optimized for light-mode. 🔆
 <!--![alt text](https://github.com/zgruza/zgruza/blob/main/Chips_eating_gif.gif?raw=true)
