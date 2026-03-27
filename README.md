@@ -5,6 +5,7 @@ I want to see the world in colors again 🎨
 *Awake, not woke.*
 Fuck corporate minimalism.
 
+Technicolor dreams in a monochrome world. Restoring the vivid heritage of human craft because 'the future' is just a cleaner version of nothing.
 > Optimized for light-mode. 🔆
 <!--![alt text](https://github.com/zgruza/zgruza/blob/main/Chips_eating_gif.gif?raw=true)
 
